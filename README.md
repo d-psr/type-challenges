@@ -2,7 +2,7 @@
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
 
-<p align='center'>Collection of TypeScript type challenges</p>
+<p align='center'>Collection of TypeScript type challenge</p>
 
 <p align='center'>
   <a href='https://discord.gg/UgKBCq9'>
